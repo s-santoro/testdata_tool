@@ -30,6 +30,13 @@ body {
     width: 50%;
     text-align: center;
 }
+#link {
+    background-color: lightblue;
+    float: right;
+    height: 20px;
+    width: 50%;
+    text-align: center;
+}
 #content {
     background-color: lightblue;
     width: 90%;
